@@ -74,7 +74,7 @@ void jgongo2_pkoby2_kseki3() {
 
 void jyip4_cboro2(){
   printf("Jacky Yip and Cullen Boroski\n");
-  printf("We learned that Github can be very useful to share and work on big projects with a group of people. We believe this because it allows us to share code and have others pull and edit the code then push the code to update it for everyone.\n");
+  printf("We learned that Github can be very useful to share and work on big projects with a group of people. We believe this because it allows us to share code and have others pull and edit the code then push the code to update it for everyone!\n");
 }
 
 int main() {
